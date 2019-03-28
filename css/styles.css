@@ -1,11 +1,11 @@
-#turtlesText {
+.turtlesText {
   display: none;
 }
 
-#snakesText {
+.snakesText {
   display: none;
 }
 
-#insectsText {
+.insectsText {
   display: none;
 }
